@@ -20,6 +20,14 @@ theme = 'PaperMod'
     name = "github"
     url = "https://github.com/cmosinverter"
 
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://linkedin.com/in/cmosinverter"
+
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:kevin95120@gmail.com"
+
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
